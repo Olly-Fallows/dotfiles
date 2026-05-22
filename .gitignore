@@ -1,0 +1,9 @@
+# Ignore All 
+*
+
+# Include relevent
+!.gitignore
+!**/nvim/*
+!hypr
+!rofi
+!waybar
