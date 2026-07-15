@@ -1,17 +1,1 @@
-# Ignore All 
-*
-
-# Include relevent
-!.gitignore
-
-!nvim/
-!nvim/**
-
-!hypr/
-!hypr/**
-
-!waybar/
-!waybar/**
-
-!rofi/
-!rofi/**
+backup/**
